@@ -14,7 +14,7 @@ Este script escrito en Bash sirve para **saver cosas basicas sobre tu sistema op
 Este script escrito en Bash sirve para **conocer mas a fondo tu red y buscar problemas**, tiene muchas herramientas y la gran mayoria ya vienen instaladas en los sistemas operativos tipo Unix.
 * Rmcodex.sh
 
-Este script escrito en Bash es un antivirus el cual utiliza ClamAV chkrootkit y Warp, por lo que es necesario tenerlo instalado todo.
+Este script escrito en Bash es un antivirus el cual utiliza ClamAV, chkrootkit y Warp, por lo que es necesario tenerlo instalado todo.
 * Warp.sh
 
 Este script escrito en Bash sirve para gestionar la VPN de Cloudflare sin necesidad de acordarse de tantos comandos, el script utiliza una interfaz de comandos limpia y ordenada para ser lo mas intituivo posible.
