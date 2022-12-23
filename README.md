@@ -1,5 +1,5 @@
 # Scripts-sencillos
-## Este repositorio esta compuesto por scripts simples que sirven para administrar tu sistema operativo mas facil
+### Este repositorio esta compuesto por scripts simples que sirven para administrar tu sistema operativo mas facil
 * APT.sh
 
 Este script escrito en Bash sirve para actualizar y borrar paquetes usando el **gestor de paquetes APT** que viene en las distribuciones basadas en Debian
